@@ -45,15 +45,15 @@
 }
 
 .dark-background {
-  --background-color: #060606;
-  --default-color: #ffffff;
+  --background-color: #6e0b16;
+  --default-color: #D2665A;
   --heading-color: #ffffff;
   --surface-color: #252525;
   --contrast-color: #ffffff;
 }
 
 .accent-background {
-  --background-color: #008374;
+  --background-color: #de6b42;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --accent-color: #ffffff;
@@ -2240,9 +2240,7 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
+
 
 /*--------------------------------------------------------------
 # Blog Posts Section
