@@ -1463,6 +1463,7 @@ section,
 .portfolio .portfolio-filters li:hover,
 .portfolio .portfolio-filters li.filter-active {
   color: var(--accent-color);
+  color: #FF6500;
 }
 
 .portfolio .portfolio-filters li:first-child {
@@ -2836,5 +2837,5 @@ section,
 .tags-widget ul a span {
   padding-left: 5px;
   color: color-mix(in srgb, var(--default-color), transparent 60%);
-  font-size: 14px;
+  font-size: 1; 
 }
